@@ -1,8 +1,10 @@
 # Fonts For Red Alert 2
-Collection of fonts for Red Alert 2 and Red Alert 2: Yuri's Revenge. All fonts are support Unicode parts of the Cyrillic alphabet and Phobos [sidebar extensions](https://phobos.readthedocs.io/en/latest/User-Interface.html#sidebar-battle-ui).
+[![Github All Releases](https://img.shields.io/github/downloads/MahBoiDeveloper/FontsForRedAlert2/total.svg)](https://github.com/MahBoiDeveloper/FontsForRedAlert2/releases) [![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/month-green.svg?logo=boosty)](https://boosty.to/mah_boi)
+
+Collection of fonts for Red Alert 2 and Red Alert 2: Yuri's Revenge. All fonts are support Unicode parts of the Cyrillic alphabet and Phobos [sidebar extensions](https://phobos.readthedocs.io/en/latest/User-Interface.html#sidebar-battle-ui). You can find them into `/Source` folder.
 
 ## Usage
-To use simply place `game.fnt` into the game folder or in one of your mod MIXes.
+To use simply place `game.fnt` into the game folder or in one of your mod `.mix` archives .
 
 ## Credits
 * Westwood Improved Font
