@@ -1,25 +1,28 @@
 # Fonts For Red Alert 2
 Collection of fonts for Red Alert 2 and Red Alert 2: Yuri's Revenge. All fonts are support Unicode parts of the Cyrillic alphabet and Phobos [sidebar extensions](https://phobos.readthedocs.io/en/latest/User-Interface.html#sidebar-battle-ui).
 
+## Usage
+To use simply place `game.fnt` into the game folder or in one of your mod MIXes.
+
 ## Credits
 * Westwood Improved Font
   * Author: Westwood
   * Edits: mah_boi
-* Phobos Improved Font
+* [Phobos](https://github.com/Phobos-developers) [Improved Font](https://github.com/Phobos-developers/PhobosSupplementaries/tree/develop/ImprovedFont)
   * Authors: Kerbiter, wiktorderelf, Uranusian
   * Edits: mah_boi
-* Tahoma 8 px Font
+* [Tahoma 8 px](https://fontstruct.com/fontstructions/show/735108/fs_tahoma_8px) Font
   * Author: WavePY
   * Edits: mah_boi
-* Rise Of The East Font
+* [Rise Of The East](https://www.moddb.com/mods/riseoftheeast) Font
   * Author: ayylmao
   * Edits: mah_boi
-* Final War Font
+* [Final War](https://www.moddb.com/mods/cncfinalwar) Font
   * Author: SMxReaver
   * Edits: mah_boi
-* Reborn Font
+* [Reborn](https://www.moddb.com/mods/cc-red-alert-2-reborn1) Font
   * Author: Belonit
-* Boiling Point Font
+* [Boiling Point](https://discord.gg/k4SVuMm) Font
   * Author: wiktorderelf
   * Edits: mah_boi
 
